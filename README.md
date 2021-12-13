@@ -21,7 +21,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/ugortcele+dev@gmail.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=00D7FC"/> 
-
+<a href="https://arifaygun.me" target"blank_"><img src="https://img.shields.io/badge/Arif%20Aygun%20Website%20-%23323330.svg?&style=for-the-badge&logoColor=00D7FC">
 </div>
 
 ## My Accounts
