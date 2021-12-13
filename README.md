@@ -7,7 +7,7 @@
 ## Name
 
 <div align="center">
-  <a href="https://arifaygun.me" target"blank_"><img src="https://img.shields.io/badge/Ahmet%20Arif%20Aygun%20-%23323330.svg?&style=for-the-badge&logo==data:custom/just-logo.png;base64&logoColor=00D7FC">
+  <a href="https://arifaygun.me" target"blank_"><img src="https://img.shields.io/badge/Ahmet%20Arif%20Aygun%20-%23323330.svg?&style=for-the-badge&logoColor=00D7FC">
 </div>
 
 ## Languages
