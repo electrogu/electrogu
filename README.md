@@ -13,6 +13,8 @@
 ## Languages
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=00D7FC"> 
+<img src="https://img.shields.io/badge/C%20-%23323330.svg?&style=for-the-badge&logo=c&logoColor=00D7FC">  
+<img src="https://img.shields.io/badge/Python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=00D7FC">  
 <img src="https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=00D7FC">  
 
 </div>
@@ -21,7 +23,8 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/ugortcele+dev@gmail.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=00D7FC"/> 
-<a href="https://arifaygun.me" target"blank_"><img src="https://img.shields.io/badge/Arif%20Aygun%20Website%20-%23323330.svg?&style=for-the-badge&logoColor=00D7FC">
+<img src="https://img.shields.io/badge/araygun48@gmail.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=00D7FC"/> 
+<a href="" target"blank_"><img src="https://img.shields.io/badge/Arif%20Aygun%20Website%20-%23323330.svg?&style=for-the-badge&logoColor=00D7FC">
 </div>
 
 ## My Accounts
