@@ -2,10 +2,10 @@
 <h3 align="center">Full-Stack Developer | Blockchain Developer | Web3 Builder</h3>
 
 <p align="center">
-  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arifaygun.com-001f3f?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-electrogu-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=arif-aygun&base=753&color=323330&style=for-the-badge" alt="Profile Views" />
+  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arifaygun.com-001f3f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-electrogu-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=arif-aygun&base=753&color=323330&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -27,33 +27,24 @@ I focus on building scalable web applications and seamless user experiences.
 
 ## 🛠️ Tech Stack
 
-### Backend
 <p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Telegraf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</p>
-
-### Embedded
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/DroneKit-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-</p>
-
-### Blockchain
-<p align="left">
-<img src="https://img.shields.io/badge/Move-4F46E5?style=for-the-badge&logo=sui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sui-4F46E5?style=for-the-badge&logo=sui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegraf-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/DroneKit-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Move-4F46E5?style=flat-square&logo=sui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sui-4F46E5?style=flat-square&logo=sui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white"/>
 </p>
 
 ---
@@ -78,8 +69,8 @@ I focus on building scalable web applications and seamless user experiences.
 Open to collaborating on **Web Applications**, **Web3 Projects** (Sui)
 
 <p align="center">
-  <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-001f3f?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://github.com/arif-aygun" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-001f3f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/arif-aygun" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 </p>
