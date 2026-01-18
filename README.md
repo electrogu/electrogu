@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmet Arif Aygun</h1>
-<h3 align="center">Full-Stack Developer | Blockchain Engineer | Web3 Builder</h3>
+<h3 align="center">Full-Stack Developer | Blockchain Developer | Web3 Builder</h3>
 
 <p align="center">
-  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arifaygun.com-323330?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arifaygun.com-001f3f?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-electrogu-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=arif-aygun&base=753&color=323330&style=for-the-badge" alt="Profile Views" />
@@ -75,17 +75,11 @@ I focus on building scalable web applications and seamless user experiences.
 
 ## 📬 Let's Connect
 
-Open to collaborating on **Blockchain Development**, **GameFi**, **Data Analytics**, **Algorithm Design**
+Open to collaborating on **Web Applications**, **Web3 Projects** (Sui)
 
 <p align="center">
   <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D7FC?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-001f3f?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://github.com/arif-aygun" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-
----
-
-<p align="center">
-  <i>⚡ Building the future, one commit at a time ⚡</i>
-</p> 
