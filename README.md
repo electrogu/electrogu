@@ -12,11 +12,6 @@
 
 ## 🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D7FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Developer;Web3+Builder;Co-founder+at+LetMeClick" alt="Typing SVG" />
-</p>
-
-
 I'm a **Full-Stack Developer** and **Co-founder** of **[LetMeClick](https://letmeclick.io)**. 
 
 I focus on building scalable web applications and seamless user experiences.
