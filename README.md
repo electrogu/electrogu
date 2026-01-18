@@ -44,8 +44,8 @@ I focus on building scalable web applications and seamless user experiences.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arif-aygun&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-aygun&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-pi-umber-72.vercel.app/api?username=arif-aygun&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats-pi-umber-72.vercel.app/api/top-langs/?username=arif-aygun&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 
