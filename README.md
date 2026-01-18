@@ -1,31 +1,93 @@
-<h1 align="center">electrogu</h1>
+<h1 align="center">Hi 👋, I'm Ahmet Arif Aygun</h1>
+<h3 align="center">Full-Stack Developer | Blockchain Engineer | Web3 Builder</h3>
 
-## Name
-
-<div align="center">
-  <a href="https://arifaygun.me" target"blank_"><img src="https://img.shields.io/badge/Ahmet%20Arif%20Aygun%20-%23323330.svg?&style=for-the-badge&logoColor=00D7FC">
-</div>
-
-## Languages
-<div align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=00D7FC"> 
-<img src="https://img.shields.io/badge/C%20-%23323330.svg?&style=for-the-badge&logo=c&logoColor=00D7FC">  
-<img src="https://img.shields.io/badge/Python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=00D7FC">  
-<img src="https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=00D7FC">  
-
-</div>
-
-## You Can Contact Me
-
-<div align="center">
-<img src="https://img.shields.io/badge/ugortcele+dev@gmail.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=00D7FC"/> 
-<img src="https://img.shields.io/badge/araygun48@gmail.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=00D7FC"/> 
-<a href="" target"blank_"><img src="https://img.shields.io/badge/Arif%20Aygun%20Website%20-%23323330.svg?&style=for-the-badge&logoColor=00D7FC">
-</div>
-
-## My Accounts
 <p align="center">
-   <a href="https://discord.com/users/456931337958326294" target"blank_">
-   <img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=00D7FC"></a>
-   <a href="https://github.com/electrogu" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=50C7C7"></a>
-     <p align="center"> <img src="https://komarev.com/ghpvc/?username=electrogu&color=blue&style=flat-square" alt="electrogu" /> </p> 
+  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arifaygun.com-00D7FC?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-electrogu-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=arif-aygun&color=00D7FC&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D7FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Engineer;Web3+Builder;Co-founder+at+letme.click" alt="Typing SVG" />
+</p>
+
+**Co-founder at [LetMeClick](https://letmeclick.io)** - Building Web2.5 gaming on Sui blockchain
+
+- 🔭 Working on **blockchain applications** and **Web3 gaming platforms**
+- 🌱 Learning **Advanced Move programming** and **Zero-Knowledge Proofs**
+- 🎯 Passionate about **Graph Theory**, **Algorithm Optimization**, and **Smart Contract Development**
+- 📫 Reach me: **ugortcele+dev@gmail.com** or **araygun48@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<!-- Languages -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Move-4F46E5?style=for-the-badge&logo=sui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+<p align="left">
+<!-- Frontend & Backend -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+<p align="left">
+<!-- Blockchain & Database -->
+<img src="https://img.shields.io/badge/Sui_Blockchain-4F46E5?style=for-the-badge&logo=sui&logoColor=white"/>
+<img src="https://img.shields.io/badge/zkLogin-6366F1?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arif-aygun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-aygun&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arif-aygun&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-aygun&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+Open to collaborating on **Blockchain Development**, **GameFi**, **Data Analytics**, **Algorithm Design**
+
+<p align="center">
+  <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D7FC?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/arif-aygun" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ Building the future, one commit at a time ⚡</i>
+</p> 
