@@ -1,9 +1,5 @@
 <h1 align="center">electrogu</h1>
 
-<div align="center">
-    <a href="https://discord.com/users/456931337958326294" title="Discord Presence"><img src="https://lanyard-profile-readme.vercel.app/api/456931337958326294"></a>
-</div>
-
 ## Name
 
 <div align="center">
