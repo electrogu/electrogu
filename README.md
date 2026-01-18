@@ -5,7 +5,7 @@
   <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arifaygun.com-00D7FC?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-electrogu-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=arif-aygun&color=00D7FC&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arif-aygun&base=753&color=00D7FC&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
