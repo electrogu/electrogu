@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=arif-aygun&base=753&color=323330&style=flat-square" alt="Profile Views" />
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -18,7 +17,6 @@ I focus on building scalable web applications and seamless user experiences.
 
 📫 **Contact**: `ugortcele+dev@gmail.com`
 
----
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +40,6 @@ I focus on building scalable web applications and seamless user experiences.
 <img src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white"/>
 </p>
 
----
 
 ## 📈 GitHub Stats
 
@@ -57,15 +54,5 @@ I focus on building scalable web applications and seamless user experiences.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-aygun&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
----
 
-## 📬 Let's Connect
 
-Open to collaborating on **Web Applications**, **Web3 Projects** (Sui)
-
-<p align="center">
-  <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-001f3f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://github.com/arif-aygun" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
-</p>
