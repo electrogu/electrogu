@@ -16,12 +16,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D7FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Engineer;Web3+Builder;Co-founder+at+letme.click" alt="Typing SVG" />
 </p>
 
-**Co-founder at [LetMeClick](https://letmeclick.io)** - Building Web2.5 gaming on Sui blockchain
 
-- 🔭 Working on **blockchain applications** and **Web3 gaming platforms**
-- 🌱 Learning **Advanced Move programming** and **Zero-Knowledge Proofs**
-- 🎯 Passionate about **Graph Theory**, **Algorithm Optimization**, and **Smart Contract Development**
-- 📫 Reach me: **ugortcele+dev@gmail.com** or **araygun48@gmail.com**
+I'm a **Full-Stack Developer** and **Co-founder** of **[LetMeClick](https://letmeclick.io)**. 
+
+I focus on building scalable web applications and seamless user experiences.
+
+📫 **Contact**: `ugortcele+dev@gmail.com`
 
 ---
 
@@ -61,7 +61,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arif-aygun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arif-aygun&show_icons=true&theme=tokyonight"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-aygun&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
