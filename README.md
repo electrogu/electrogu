@@ -65,9 +65,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-aygun&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arif-aygun&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-aygun&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
