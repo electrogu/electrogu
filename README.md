@@ -2,10 +2,10 @@
 <h3 align="center">Full-Stack Developer | Blockchain Engineer | Web3 Builder</h3>
 
 <p align="center">
-  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arifaygun.com-00D7FC?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arifaygun.com-323330?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:ugortcele+dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.com/users/456931337958326294" target="_blank"><img src="https://img.shields.io/badge/Discord-electrogu-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=arif-aygun&base=753&color=00D7FC&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arif-aygun&base=753&color=323330&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D7FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Engineer;Web3+Builder;Co-founder+at+letme.click" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D7FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Developer;Web3+Builder;Co-founder+at+LetMeClick" alt="Typing SVG" />
 </p>
 
 
