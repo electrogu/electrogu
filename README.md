@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Arif Aygun</h1>
-<h3 align="center">Full-Stack Developer | Blockchain Developer | Web3 Builder</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://arifaygun.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arifaygun.com-001f3f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** and **Co-founder** of **[LetMeClick](https://letmeclick.io)**. 
+I'm a **Full-Stack Developer** and **Co-founder** of **KLIK Community**. 
 
 I focus on building scalable web applications and seamless user experiences.
 
